@@ -1,0 +1,30 @@
+body{
+background-color:#ebf0a7;
+}
+.heading{
+background-color: #b0b3f6;
+display:flex;
+justify-content:space-between;
+}
+#menu{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.myname{
+    background-color:#f19767;
+display:flex;
+flex-direction: column;
+justify-content:right;
+}
+#game1{
+
+width: 450px;
+}
+.grid{
+display:flex;
+flex-wrap:wrap;
+justify-content: space-evenly;
+font-size: 40px;
+font-family:cursive;
+color:#4d4d62
+}
